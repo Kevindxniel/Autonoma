@@ -16,7 +16,7 @@ class HomeScreen extends StatelessWidget {
       body: Container(
         decoration: BoxDecoration(
           image: DecorationImage(
-            image: NetworkImage('https://i.pinimg.com/736x/3f/42/cf/3f42cf96c103662c5259090c1e03963d.jpg'),
+            image: NetworkImage('https://i.pinimg.com/736x/71/06/ca/7106cac04e0daba2ebc8910733743720.jpg'),
             fit: BoxFit.cover,
           ),
         ),
